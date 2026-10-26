@@ -1,0 +1,5 @@
+[SmartHR — Tech Stack]
+- Frontend: React 18, TypeScript, Vite, Tailwind CSS, Lucide React, Axios
+- Backend: Node.js, Express.js, TypeScript, bcrypt, JSON Web Tokens
+- Database & ORM: Prisma ORM (v5.22), Supabase PostgreSQL (IPv4 Session Pooler)
+- DevOps & Cloud: GitHub Actions CI/CD, Vercel (Frontend), Render (Backend)

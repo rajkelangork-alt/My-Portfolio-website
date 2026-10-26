@@ -1,0 +1,10 @@
+[Smart HR Demo Credentials]
+URL: https://smart-hr-woad.vercel.app
+
+• Admin:
+  Username: admin@smarthr.local
+  Password: Admin@12345
+
+• Dynamic Roles (Manager / Employee):
+  Created on-demand via Admin Dashboard (+ Add Employee)
+  Default Provisioned Root: Super Admin (EMP-000)

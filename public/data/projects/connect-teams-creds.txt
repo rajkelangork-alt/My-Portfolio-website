@@ -1,0 +1,7 @@
+[Connect Teams — Demo Credentials]
+- Role: System Admin
+- Work Email: admin@connectteams.com
+- Password: Admin@12345 (or click the "System Admin" quick-fill card on the login screen)
+
+[Account Provisioning & Governance]
+- Additional team member IDs (up to 7 accounts bounded to @connectteams.com) and Workspace Admin badges (max 2 holders) can be generated and provisioned directly by the System Admin from inside the workspace dashboard.

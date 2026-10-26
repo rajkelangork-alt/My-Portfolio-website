@@ -1,0 +1,5 @@
+[Tenant Analytics – Tech Stack & Architecture]
+- Backend & API: FastAPI, Python 3.12, Async SQLAlchemy, Pydantic v2
+- Frontend & UI: React 18, Vite, Tailwind CSS, Lucide Icons, Recharts
+- Database & Storage: Supabase PostgreSQL with compound time-series indexing
+- Deployment & CI/CD: Vercel (Frontend), Render (Backend API), GitHub Actions CI

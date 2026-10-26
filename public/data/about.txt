@@ -1,0 +1,3 @@
+I am a Full Stack Developer, and I build products end to end, from the first prototype to a responsive frontend. My experience as Technical Product Manager spans product prototyping, backend application design, and frontend delivery, so I can translate an idea into a working product and make the trade-offs along the way.
+
+Lately, I have been experimenting with building my own products, with a focus on AI agentic applications. I enjoy turning new ideas into working prototypes, and I’m looking for challenging projects in applications, prototyping, and full stack development where I can keep learning and shipping.

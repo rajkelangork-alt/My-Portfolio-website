@@ -1,0 +1,16 @@
+[Amaze.Shop Demo Credentials]
+URL: https://amaze-shop-orpin.vercel.app
+
+• Admin:
+  Username: admin@amzshop.com
+  Password: Admin@12345
+
+• Vendors (Apex / Nova / Zenith / Prime):
+  Username: vendor.apex@amzshop.com  (or .nova, .zenith, .prime)
+  Password: Vendor@12345
+
+• Customers (1 through 5):
+  Username: customer1@amzshop.com   (to customer5@amzshop.com)
+  Password: Customer@12345
+
+Note: In-app 1-click test fill is active on the sign-in modal.

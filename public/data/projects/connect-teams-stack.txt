@@ -1,0 +1,5 @@
+[Connect Teams — Tech Stack]
+- Frontend: React 18, Vite, Tailwind CSS, Lucide React
+- State & Communication: Context API, Real-time WebSockets with Redis / Local PubSub fallback
+- Backend & Database: FastAPI, Python 3.12+, SQLAlchemy 2.0 (Async), Supabase PostgreSQL (IPv4 Pooler)
+- Deployment & CI/CD: Vercel Edge Network (Frontend), Render Web Services (Backend), GitHub Actions CI

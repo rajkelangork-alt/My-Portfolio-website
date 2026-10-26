@@ -1,0 +1,8 @@
+[SaaS Tenant Analytics – Demo Credentials]
+- Role: Tenant Admin
+- Work Email: admin@tenant1.com
+- Password: Admin@12345 (or click the quick-fill card on the sign-in screen)
+
+[Workspace Scope & Administration]
+- Full workspace control: Manage tenant identity, generate and roll Ingress Secret Keys, configure retention horizons (30d), and view real-time telemetry streams.
+- Operational Access: Scoped specifically to admin privileges for infrastructure analytics, throughput monitoring, and team member governance.

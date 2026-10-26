@@ -1,0 +1,5 @@
+[Amaze.Shop — Tech Stack]
+- Frontend: React 18 / Vite, Tailwind CSS, Framer Motion, Context API
+- Backend: Python, FastAPI, SQLAlchemy, Alembic Migrations
+- Database: Supabase PostgreSQL (Schema-level Tenant Isolation)
+- Infrastructure: Docker, Render (Backend API), Vercel (Frontend SPA)
